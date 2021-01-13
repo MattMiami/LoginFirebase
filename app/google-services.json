@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927875056338",
+    "project_id": "fir-kotlinantonio",
+    "storage_bucket": "fir-kotlinantonio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927875056338:android:1e26af1ae253c6f399e30b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_antonio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927875056338-6jpbmbau3vp7ofqbe9n6pbvkpuncnbeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv7eUGq4ZBcCuL42uzknsFEsEK1EYL6l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927875056338-6jpbmbau3vp7ofqbe9n6pbvkpuncnbeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
